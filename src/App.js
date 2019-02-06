@@ -52,7 +52,7 @@ class App extends Component {
     this.setState({input: event.target.value});
   }
 
-  // Use Clarifi and detect face
+  // Use Clarifai and detect face
   onButtonSubmit = () => {
     this.setState({imageUrl: this.state.input});
     app.models

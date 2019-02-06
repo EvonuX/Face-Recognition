@@ -1,5 +1,5 @@
 # Face-Recognition
-Build with React and using Clarifai API
+Built with React and using Clarifai API
 
 Used Clarifai API for face recognition. Deployed to Netlify.
 
